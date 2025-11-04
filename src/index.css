@@ -1,0 +1,11 @@
+body {
+  background-color: #7a7a7a;   /* your grey background */
+  font-family: "Inter", sans-serif;
+  color: #333;
+  display: flex;
+  justify-content: center;     /* centers horizontally */
+  align-items: flex-start;     /* keeps content near top */
+  min-height: 100vh;           /* full viewport height */
+  padding: 2rem;               /* adds breathing room around everything */
+  box-sizing: border-box;
+}
